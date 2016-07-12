@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TEST</string>
+    <string name="login">登录</string>
+    <string name="theme">My World!!!</string>
+    <string name="personname">HEEL</string>
+    <string name="s_view_btn">H?</string>
+    <string name="testbutton">go to anthor activity</string>
+</resources>
